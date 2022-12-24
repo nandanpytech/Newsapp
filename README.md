@@ -1,3 +1,23 @@
+
+## About
+
+- A fully featured API-based web application using the React.js framework.
+- It is all about searching and retrieving live articles from all over the web and displayed in UI.
+- Implemented all best practices like loader, and categories using bootstrap.
+
+
+## 🛠 Tech Include
+Javascript, HTML, CSS, React, Bootstrap, API 
+
+## Screenshots
+
+![Screenshot (109)](https://user-images.githubusercontent.com/87522041/209447802-6ee11719-788b-4640-94eb-b6eb2326eceb.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/87522041/209447804-fb9ecd82-81b7-4949-acc8-7a0309a0eb09.png)
+
+![Screenshot (111)](https://user-images.githubusercontent.com/87522041/209447807-db166a61-c48b-4f54-a183-00d2bdfa7b5d.png)![Screenshot (112)](https://user-images.githubusercontent.com/87522041/209447809-edd2925f-f4f7-4b27-8249-09bd8acbedaa.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/87522041/209447814-41d54f96-103a-45f2-9a6e-99c8f11d8ad4.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +88,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
